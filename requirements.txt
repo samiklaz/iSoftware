@@ -1,0 +1,5 @@
+Django==3.2.7
+marshmallow==3.13.0
+djangorestframework==3.13.1
+pytest==7.1.1
+pytest-django==4.5.2
